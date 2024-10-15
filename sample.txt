@@ -1,1 +1,2 @@
-Hi there this is added by praga.
+This is for learning git. This is sample file.
+
